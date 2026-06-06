@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HARTH Activity Recognition
 
 Bài 2 sử dụng bộ dữ liệu **HARTH** để nhận dạng hoạt động của con người từ tín hiệu cảm biến gia tốc. Code gồm hai nhánh thực nghiệm:
@@ -83,3 +84,6 @@ Các file được lưu trong `output/`:
 - `deep_learning_curves.png`
 - `final_comparison.png`
 - `best_confusion_matrix.png`
+=======
+# Machine-Learning
+>>>>>>> d6b41f1dd730e5e2fe62befcb2da8349f2d0bdbd
